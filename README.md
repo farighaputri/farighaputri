@@ -1,26 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5A2B&height=220&section=header&text=Hi,%20I'm%20Farigha%20Putri%20Wahyuni&fontSize=32&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3B2F2F&height=240&section=header&text=HELLO%20WORLD&subText=WELCOME%20TO%20MY%20PROFILE&fontSize=45&subFontSize=16&fontColor=ffffff&subFontColor=D2B48C&animation=scaleIn" width="100%"/>
 </div>
 
-<div align="center">
-  
-  ### Information Systems Student | Flutter & Laravel Developer
-  
-  <p align="center">
-    <img src="https://komarev.com/badge/counter/views/?username=farighaputri&color=8B5A2B&style=flat-square" alt="Views" />
-  </p>
+<br />
 
-  ---
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
+      ## I'm Farigha!
+      
+      ### Information Systems Student
+      
+      I am an Information Systems student who loves crafting clean web and mobile applications with a passion for building functional digital solutions.
+      
+      * **Currently learning:** Advanced state management in Flutter and robust backend development with Laravel.
+      * **Current Project:** Building a dedicated building conservation and donation platform.
+      * **Side Hustle:** Developing the Mobile Kopikala application.
+      * **Philosophy:** Always exploring new technologies and turning coffee into beautiful code.
+      
+      <br />
+      
+      <img src="https://img.shields.io/badge/PROFILE%20VIEWS-3B2F2F?style=for-the-badge" alt="Views" />
 
-### About Me
-
-Hello! I am a passionate Information Systems student who loves crafting clean web and mobile applications. 
-
-*   **Currently learning:** Advanced state management in Flutter & robust backend development with Laravel.
-*   **Current Project:** Building a dedicated building conservation and donation platform.
-*   **Side Hustle:** Developing the **Mobile Kopikala** app.
-*   **Philosophy:** Always exploring new technologies and turning coffee into beautiful code.
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Ilustrasi Gambar di sisi kanan (Menggunakan mask warna cokelat estetik) -->
+      <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=400&auto=format&fit=crop" width="280" style="border-radius: 15px;" alt="Coding Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
