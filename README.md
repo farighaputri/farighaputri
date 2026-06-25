@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌷 Hi, I'm Farigha Putri Wahyuni
 
-<!--
-**farighaputri/farighaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Information Systems Student
 
-Here are some ideas to get you started:
+🌱 Currently learning Flutter & Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐢 Building conservation and donation platforms
+
+☕ Developing Mobile Kopikala
+
+✨ Always exploring new technologies
+
+---
+
+## 🧸 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+## 🌸 GitHub Stats
+
+![Farigha's GitHub stats](https://github-readme-stats.vercel.app/api?username=farighaputri&show_icons=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
