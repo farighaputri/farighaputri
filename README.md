@@ -155,31 +155,14 @@ Mobile coffee ordering application integrated with Laravel REST API and Firebase
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+06+%C2%B7+github_trophies+%7D"/>
+</div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=farighaputri&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"/>
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+07+%C2%B7+contribution_snake+%7D"/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farighaputri/farighaputri/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farighaputri/farighaputri/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/farighaputri/farighaputri/output/github-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+08+%C2%B7+connect+%7D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+06+%C2%B7+connect+%7D"/>
 
 <div align="center">
 
