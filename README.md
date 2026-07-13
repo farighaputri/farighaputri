@@ -9,7 +9,6 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=farighaputri&style=for-the-badge&color=FF69B4&labelColor=0D1117&label=PROFILE+VIEWS"/>
-
 <img src="https://img.shields.io/github/followers/farighaputri?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF69B4&labelColor=0D1117"/>
 
 </div>
