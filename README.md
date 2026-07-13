@@ -61,16 +61,7 @@ const farigha = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+03+%C2%B7+github_stats+%7D"/>
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=farighaputri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=D946EF&text_color=FFFFFF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farighaputri&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF"/>
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+04+%C2%B7+activity_graph+%7D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+03+%C2%B7+activity_graph+%7D"/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farighaputri&bg_color=0D1117&color=FF69B4&line=D946EF&point=FF69B4&area=true&hide_border=true"/>
@@ -78,7 +69,7 @@ const farigha = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+04.5+%C2%B7+snake_eating_commits+%7D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&width=500&lines=%7B+04+%C2%B7+snake_eating_commits+%7D"/>
 
 <div align="center">
   <img src="https://github.com/farighaputri/farighaputri/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Github Eating Snake" width="100%">
